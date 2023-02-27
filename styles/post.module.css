@@ -1,0 +1,38 @@
+.btn {
+  padding: 0.8rem 0.8rem 0.8rem 0.6rem;
+  background-color: rgb(86, 94, 211);
+  margin: 1rem auto;
+  text-decoration: none;
+  font-size: 1.25rem;
+  color: white;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+.btn:hover {
+  background-color: rgba(86, 94, 211, 80%);
+}
+
+.readMore {
+  border: 1px solid #333;
+  color: #333;
+  border-radius: 3px;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  /*padding: 1rem 2rem;
+  background-color: rgb(86, 94, 211);
+  font-size: 1.25rem;
+  color: white;
+  cursor: pointer;
+  border-radius: 0.5rem;*/
+}
+
+.readMore:hover {
+  background-color: rgba(0, 0, 0, 5%);
+}
+
+.title {
+  text-transform: capitalize;
+}
